@@ -8,7 +8,14 @@
 
 
 ## Key Deliverables 
-- Business KPIs
+- **Business KPIs:**
+-  #### **1.1) Defining KPIs and success metrics:**
+- **Average Delivery Time:**  Mean duration between StartTime and EndTime  
+- **On-Time Delivery Rate:**  % of deliveries completed within expected time (if SLA is known)  
+- **Carbon Emission per Delivery:**	 Based on vehicle emission factor × distance  
+- **Driver Efficiency Score:**  Could combine # of deliveries, timeliness, and route complexity  
+- **Fuel Consumption:**  Estimated from distance and vehicle fuel efficiency 
+  
 - Top 3 insights
 - ROI estimate summary
 
