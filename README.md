@@ -12,4 +12,11 @@
 - Top 3 insights
 - ROI estimate summary
 
-## Technical Features - Star schema model with RLS - 30+ DAX measures - Mobile layout included - Parameters and drill-through enabled ##      ##      Published Dashboard [Click to View Live Report](PASTE_PUBLISH_TO_WEB_LINK_HERE) Presentation Materials See `documentation/` folder for full report. 
+## Technical Features 
+- Star schema model with RLS
+- 30+ DAX measures
+- Mobile layout included
+- Parameters and drill-through enabled
+## Published Dashboard [Click to View Live Report](PASTE_PUBLISH_TO_WEB_LINK_HERE) 
+
+## Presentation Materials See `documentation/` folder for full report. 
