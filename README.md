@@ -8,10 +8,10 @@
 ## Project Summary: Short description of the scenario, objectives, and business case. 
 
 ## 📦 Project Summary
-**Scenario**
+**Scenario:**  
 This project simulates a real-world package delivery operation in Nairobi, Kenya, where a logistics company must optimize delivery routes, improve driver performance, and reduce its environmental footprint. The company uses GPS telemetry, weather data, and vehicle tracking to monitor and analyze delivery operations in real time.
 
-**Objectives**
+**Objectives:**  
 - Design a robust data model (star schema) for route-based delivery analytics
 
 - Track and evaluate driver performance using key delivery metrics
@@ -22,7 +22,7 @@ This project simulates a real-world package delivery operation in Nairobi, Kenya
 
 - Provide actionable insights through interactive dashboards and KPIs
 
-**Business Case**
+**Business Case:**   
 In urban delivery logistics, inefficiencies in routing, delays due to weather, and poor fuel optimization lead to increased costs and environmental impact. This project aims to provide a data-driven route intelligence solution that enables:
 
 - 📈 Improved operational decision-making through real-time performance monitoring
