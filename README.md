@@ -46,7 +46,10 @@ By integrating dynamic data sources and analytics into a unified reporting syste
 - **On-Time Delivery Rate:**  % of deliveries completed within expected time (if SLA is known)  
 - **Carbon Emission per Delivery:**	 Based on vehicle emission factor × distance  
 - **Driver Efficiency Score:**  Could combine # of deliveries, timeliness, and route complexity  
-- **Fuel Consumption:**  Estimated from distance and vehicle fuel efficiency 
+- **Fuel Consumption:**  Estimated from distance and vehicle fuel efficiency
+#### **1.2) Designing star schema data model:**
+<img width="1127" height="701" alt="image" src="https://github.com/user-attachments/assets/2e5df02a-4192-462b-8713-f443eaf09782" />
+
   
 ## Technical Features 
 - Star schema model with RLS
