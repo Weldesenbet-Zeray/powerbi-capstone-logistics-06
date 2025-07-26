@@ -48,7 +48,8 @@ By integrating dynamic data sources and analytics into a unified reporting syste
 - **Driver Efficiency Score:**  Could combine # of deliveries, timeliness, and route complexity  
 - **Fuel Consumption:**  Estimated from distance and vehicle fuel efficiency
 #### **1.2) Designing star schema data model:**
-<img width="1000" height="500" alt="Star Schema Design" src="https://github.com/user-attachments/assets/2e5df02a-4192-462b-8713-f443eaf09782" />
+<img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/dae1c3d6-6177-4eba-b957-6efe8e1b514b" />
+
 
   
 ## Technical Features 
