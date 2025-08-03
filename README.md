@@ -1,5 +1,5 @@
 # Power BI Capstone Project – Route Intelligence System
-**Group 6** | DSA 2040A – Semester Project
+**Group 6** | DSA 3050A – Semester Project
 
 ## Group Members
 - Student 1 – Melanie Mweru
