@@ -1,62 +1,40 @@
-# Power BI Capstone Project – logistics
-**Group [Number]** | DSA 2040A – Semester Project 
+# Power BI Capstone Project – Route Intelligence System
+**Group 6** | DSA 2040A – Semester Project
+
 ## Group Members
-- Student 1 – Name
-- Student 2 – Name
-- Student 3 – Name
-- Student 4 – Name
-## Project Summary: Short description of the scenario, objectives, and business case. 
+- Student 1 – Melanie Mweru
+- Student 2 – [Insert Name]
+- Student 3 – [Insert Name]
 
-## 📦 Project Summary
-**Scenario:**  
-This project simulates a real-world package delivery operation in Nairobi, Kenya, where a logistics company must optimize delivery routes, improve driver performance, and reduce its environmental footprint. The company uses GPS telemetry, weather data, and vehicle tracking to monitor and analyze delivery operations in real time.
+## Project Summary
+This project focuses on building a Route Intelligence System dashboard for a logistics company. The goal is to enhance route optimization, monitor driver and vehicle performance, analyze delivery efficiency, and evaluate weather impacts. The dashboard supports strategic decisions by integrating KPIs, predictive metrics, and environmental factors.
 
-**Objectives:**  
-- Design a robust data model (star schema) for route-based delivery analytics
+## Key Deliverables
+- **Business KPIs**: On-time delivery %, fuel efficiency per route, driver performance scores, carbon emissions
+- **Top 3 insights**:
+  1. Rainfall and wind levels significantly impact delivery delays in coastal regions.
+  2. Drivers with higher experience and fewer incidents consistently outperform in delivery timing.
+  3. Certain vehicle types have lower emissions but also lower efficiency on hilly routes.
+- **ROI Estimate Summary**: Projected 15–20% reduction in fuel costs and improved delivery SLA compliance after implementation of insights.
 
-- Track and evaluate driver performance using key delivery metrics
+## Technical Features
+- Star schema data model with `Cleaned_Fact` as central fact table
+- Role-Level Security (RLS) enabled for regional managers
+- 30+ DAX measures including time intelligence, carbon impact, and scoring models
+- Mobile layout for field managers and executives
+- Parameter tables: `RouteNamePar`, `DriverNamePar`, `RouteWeatherSummary`, `EndDatePar`
+- Drill-through reports, bookmarks, and summary cards
 
-- Analyze the impact of weather on delivery efficiency and fuel usage
+## Published Dashboard
+[Click to View Live Report](PASTE_PUBLISH_TO_WEB_LINK_HERE)
 
-- Estimate and report on the carbon emissions of the delivery fleet
-
-- Provide actionable insights through interactive dashboards and KPIs
-
-**Business Case:**   
-In urban delivery logistics, inefficiencies in routing, delays due to weather, and poor fuel optimization lead to increased costs and environmental impact. This project aims to provide a data-driven route intelligence solution that enables:
-
-- 📈 Improved operational decision-making through real-time performance monitoring
-
-- ⏱ Better delivery time predictions using weather and distance analytics
-
-- ♻️ Sustainable logistics with estimated carbon emission reporting
-
-- 🧠 Insightful dashboards for stakeholders to identify optimization opportunities
-
-By integrating dynamic data sources and analytics into a unified reporting system, this solution empowers logistics managers to make smarter, faster, and greener decisions.
-
-
-## Key Deliverables 
-- Business KPIs:
-- Top 3 insights
-- ROI estimate summary
-
-#### **1.1) Defining KPIs and success metrics:**
-- **Average Delivery Time:**  Mean duration between StartTime and EndTime  
-- **On-Time Delivery Rate:**  % of deliveries completed within expected time (if SLA is known)  
-- **Carbon Emission per Delivery:**	 Based on vehicle emission factor × distance  
-- **Driver Efficiency Score:**  Could combine # of deliveries, timeliness, and route complexity  
-- **Fuel Consumption:**  Estimated from distance and vehicle fuel efficiency
-#### **1.2) Designing star schema data model:**
-<img width="1000" height="400" alt="image" src="https://github.com/user-attachments/assets/188b5b58-1149-49de-b52b-c1e28de70329" />
+## Presentation Materials
+See [`documentation/`](documentation/) folder for the full project report including:
+- `presentation.pdf` – Executive presentation deck  
+- `business_case.md` – Problem background, stakeholders, and strategic value  
+- `data_model_diagram.png` – Entity relationships and schema design  
+- `performance_tuning.md` – Performance enhancements implemented  
+- `ROI_calculations.xlsx` – Spreadsheet with impact modeling  
 
 
-  
-## Technical Features 
-- Star schema model with RLS
-- 30+ DAX measures
-- Mobile layout included
-- Parameters and drill-through enabled
-## Published Dashboard [Click to View Live Report](PASTE_PUBLISH_TO_WEB_LINK_HERE) 
 
-## Presentation Materials See `documentation/` folder for full report. 
