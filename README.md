@@ -49,7 +49,7 @@ By integrating dynamic data sources and analytics into a unified reporting syste
 
 - **Top 3 insights**:
   1. Rainfall and wind levels significantly impact delivery delays in coastal regions.
-     <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/63209fb1-d198-4fea-a007-a20d670421ea" />
+ <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/63209fb1-d198-4fea-a007-a20d670421ea" />
 
   2. Drivers with higher experience and fewer incidents consistently outperform in delivery timing.
   3. Certain vehicle types have lower emissions but also lower efficiency on hilly routes.
