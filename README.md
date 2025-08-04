@@ -44,15 +44,16 @@ By integrating dynamic data sources and analytics into a unified reporting syste
  - **Driver Efficiency Score:**  Could combine # of deliveries, timeliness, and route complexity  
  - **Fuel Consumption:**  Estimated from distance and vehicle fuel efficiency
 -#### **Designing star schema data model:**
-<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/dae1c3d6-6177-4eba-b957-6efe8e1b514b" />
+<img width="900" height="400" alt="image" src="https://github.com/user-attachments/assets/dae1c3d6-6177-4eba-b957-6efe8e1b514b" />
 
 
 - **Top 3 insights**:
   1. Rainfall and wind levels significantly impact delivery delays in Eastern and Souther regions.
- <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/63209fb1-d198-4fea-a007-a20d670421ea" />
+ <img width="900" height="300" alt="image" src="https://github.com/user-attachments/assets/63209fb1-d198-4fea-a007-a20d670421ea" />
 
   2. Drivers with higher experience and fewer incidents consistently outperform in delivery timing. The Delivery metrics is summarised as below:
-<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/bf21f813-f2d2-452f-a39d-5592863050be" />
+<img width="900" height="300" alt="image" src="https://github.com/user-attachments/assets/3783716b-07ea-4c05-8dea-c4a387e5d733" />
+
 
   3. Certain vehicle types have lower emissions but also lower efficiency on hilly routes.
 - **ROI Estimate Summary**: Projected 15–20% reduction in fuel costs and improved delivery SLA compliance after implementation of insights.
