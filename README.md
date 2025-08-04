@@ -37,13 +37,13 @@ In urban delivery logistics, inefficiencies in routing, delays due to weather, a
 By integrating dynamic data sources and analytics into a unified reporting system, this solution empowers logistics managers to make smarter, faster, and greener decisions.
 
 ## Key Deliverables
-- **Business KPIs**: #### **1.1) Defining KPIs and success metrics:**
-- **Average Delivery Time:**  Mean duration between StartTime and EndTime  
-- **On-Time Delivery Rate:**  % of deliveries completed within expected time (if SLA is known)  
-- **Carbon Emission per Delivery:**	 Based on vehicle emission factor × distance  
-- **Driver Efficiency Score:**  Could combine # of deliveries, timeliness, and route complexity  
-- **Fuel Consumption:**  Estimated from distance and vehicle fuel efficiency
-#### **1.2) Designing star schema data model:**
+- #### **Business KPIs**:
+ - **Average Delivery Time:**  Mean duration between StartTime and EndTime  
+ - **On-Time Delivery Rate:**  % of deliveries completed within expected time (if SLA is known)  
+ - **Carbon Emission per Delivery:**	 Based on vehicle emission factor × distance  
+ - **Driver Efficiency Score:**  Could combine # of deliveries, timeliness, and route complexity  
+ - **Fuel Consumption:**  Estimated from distance and vehicle fuel efficiency
+-#### **Designing star schema data model:**
 <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/dae1c3d6-6177-4eba-b957-6efe8e1b514b" />
 
 
