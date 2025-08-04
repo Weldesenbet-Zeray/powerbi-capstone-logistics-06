@@ -2,9 +2,10 @@
 **Group 6** | DSA 3050A – Semester Project
 
 ## Group Members
-- Student 1 – Melanie Mweru
-- Student 2 – [Insert Name]
-- Student 3 – [Insert Name]
+- 1 – Melanie Mweru
+- 2 – Weldesenbet Aregay
+- 3 – Phiona 
+- 4 – Cedric
 
 ## Project Summary
 This project focuses on building a Route Intelligence System dashboard for a logistics company. The goal is to enhance route optimization, monitor driver and vehicle performance, analyze delivery efficiency, and evaluate weather impacts. The dashboard supports strategic decisions by integrating KPIs, predictive metrics, and environmental factors.
