@@ -5,7 +5,7 @@
 - 1 – Melanie Mweru
 - 2 – Weldesenbet Aregay
 - 3 – Phiona 
-- 4 – Cedric
+- 4 – Cedric Barigye
 
 ## Project Summary
 This project focuses on building a Route Intelligence System dashboard for a logistics company. The goal is to enhance route optimization, monitor driver and vehicle performance, analyze delivery efficiency, and evaluate weather impacts. The dashboard supports strategic decisions by integrating KPIs, predictive metrics, and environmental factors.
